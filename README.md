@@ -5,6 +5,8 @@ This repo is for who want to get into Git and the world of FOSS, and students wh
 > "It is easy to shoot your foot off with git, but also easy to revert to a previous foot and merge it with your current leg."\
 > — Jack William Bell
 
+-----------------------------------------------------
+
 # Table of Contents
 
 <table border="2" >
@@ -65,6 +67,27 @@ This repo is for who want to get into Git and the world of FOSS, and students wh
     </tr>
 </table>
 
+-----------------------------------------------------
+
+# Learning Resources
+
+This section contains learning materials shared by contributors.
+
+## Videos:
+
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
+- [Lecture 6: Version Control (git) (2020) | MIT Computer Science](https://www.youtube.com/watch?v=2sjqTHE0zok&t=40s)
+- [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
+- [Watch this (Arabic) video to know what git is.](https://www.youtube.com/watch?v=HEmfKX3prdA)
+- [Let Bucky teach how to use Git :D](https://www.youtube.com/watch?v=cEGIFZDyszA&index=1&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+- [Watch an introduction from Traversy Media.](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Let The Coding Train teach you Git and Github.](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+## Online Courses to follow:
+- Learn Git on [Codecademy](https://www.codecademy.com/learn/learn-git)
+- Learn Git on [Udemy](https://www.udemy.com/git-complete)
+
+-----------------------------------------------------
 
 # Contributers
 
